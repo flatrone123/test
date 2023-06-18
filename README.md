@@ -4,3 +4,4 @@ third text
 
 text text text
 text text text text
+delete fix2
